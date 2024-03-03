@@ -1,3 +1,5 @@
+![logo](https://github.com/Virendra9824/Virendra9824/blob/main/gitHub_banner2.png)
+
 <h1 align="center">Hi 👋, I'm Virendra Kumar</h1>
 <h3 align="center">Passionate about Web-Development and Machine Learning.</h3>
 
